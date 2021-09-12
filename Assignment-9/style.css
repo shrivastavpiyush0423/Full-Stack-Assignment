@@ -479,6 +479,7 @@
       text-align: justify;
       line-height: 30px;
       color: white;
+      overflow: scroll;
     }
 
     .grid>a {
@@ -667,6 +668,7 @@
       background-color: rgb(165, 22, 22);
       border-radius: 8px;
       margin-bottom: 20px;
+      overflow: scroll;
     }
 
     .grid>img {
@@ -862,7 +864,6 @@
         text-align: justify;
         line-height: 25px;
         color: white;
-        overflow: scroll;
       }
 
       .grid>a {
